@@ -3,6 +3,10 @@ public class hola{
 		System.out.printLn("hola mundo");
 		public static void(){
 			System.out.printLn("sad");
+			System.out.printLn("sad");
+			System.out.printLn("sad");
+			System.out.printLn("sad");
+			System.out.printLn("sad");
 		}	
 	}
 }	
