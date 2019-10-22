@@ -8,7 +8,7 @@ public class hola{
 			System.out.printLn("sad");
 			System.out.printLn("sad");
 		}	
-	}
+	}// este es un comentario
 	public static print (String cad){
 		System.out.println("hola mundo 2");
 	}
