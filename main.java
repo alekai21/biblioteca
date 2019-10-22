@@ -12,4 +12,6 @@ public class hola{
 	public static print (String cad){
 		System.out.println("hola mundo 2");
 	}
-}	
+}	public static print1 (String cad){
+		System.out.println("hola mundo 2");
+	}
